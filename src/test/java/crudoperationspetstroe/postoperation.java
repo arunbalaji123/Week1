@@ -1,7 +1,7 @@
 package crudoperationspetstroe;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
-public class getoperation {
+public class postoperation {
 	 public static void main(String[] args) {
 
 	        // Pre-condition
