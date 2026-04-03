@@ -3,7 +3,7 @@ package requestBody;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 
-public class updatebodymethis {
+public class updatebodymethod {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
