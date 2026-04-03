@@ -8,7 +8,7 @@ import java.io.File;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class CreateProject{
+public class NinzaHrmResponseValidation{
 
     static String projectId;
 
